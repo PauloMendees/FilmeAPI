@@ -12,7 +12,7 @@ Essa API apresenta dois projetos em uma mesma solução, sendo eles:
 ##Como iniciar
 
 Para iniciar a aplicação, algumas dependências são necessárias, sendo elas:
-  -AutoMapper       -->   8.1
+  -AutoMapper       -->   8.1 <br>
   -FluentResults    -->   2.5
   -MailKit          -->   2.14
   -Pacotes Microsoft
