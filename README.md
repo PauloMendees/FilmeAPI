@@ -1,6 +1,6 @@
 # FilmeAPI
 
-##Features
+## Features
 
 Essa API apresenta dois projetos em uma mesma solução, sendo eles:<br>
   -API de autenticação --> UsuariosAPI;<br>
@@ -9,7 +9,7 @@ Essa API apresenta dois projetos em uma mesma solução, sendo eles:<br>
   -A API de autenticação apresenta EmailService;<br>
   
 
-##Como iniciar<br>
+## Como iniciar<br>
 
 Para iniciar a aplicação, algumas dependências são necessárias, sendo elas:<br>
   -AutoMapper       -->   8.1 <br>
